@@ -1,0 +1,63 @@
+.main{
+   padding:20px;
+   font-family: 'Helvetica', serif;
+   box-shadow: 5px 5px 7px 5px #252424;
+   width:500px;
+   text-align: center;
+   margin:auto;
+   position:absolute;
+   top:50px;
+   left:550px;
+
+}
+.main h3,h1{
+   font-size: 40px;
+   text-align:center;
+   font-family: 'Helvetica', serif;
+}
+input{
+   font-family: 'Helvetica', serif;
+   width: 80%;
+   font-size: 20px;
+   padding: 12px 20px;
+   margin: 8px 0;
+   border: none;
+   text-align: center;
+   text-justify: auto;
+   border-bottom: 2px solid #f4f40d;
+}
+input[type=submit] {
+   font-family: 'Helvetica', serif;
+   width: 80%;
+   text-justify: auto;
+   background-color: #f4f40d;
+   border: none;
+   color: black;
+   padding: 16px 32px;
+   margin: 4px 2px;
+   border-radius: 10px;
+}
+.registerbtn {
+   background-color: #f4f40d;
+   color: black;
+   padding: 16px 20px;
+   margin: 8px 0;
+   border: none;
+   cursor: pointer;
+   width: 80%;
+   opacity: 0.9;
+}
+.one {
+   z-index: 2;
+   position:relative;
+   left:250px;
+   bottom:60px;
+
+}
+.click_pic{
+   z-index: 5;
+   position:relative;
+   left:230px;
+   bottom:0px;
+
+}
